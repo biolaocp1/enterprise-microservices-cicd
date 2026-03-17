@@ -1,0 +1,15 @@
+enterprise-microservices-cicd/
+├── README.md
+├── ci-cd-pipelines/
+│   ├── gitlab-ci.yml
+│   ├── jenkins-pipeline.groovy
+├── kubernetes-manifests/
+│   ├── deployment.yaml
+│   ├── service.yaml
+├── terraform/
+│   ├── main.tf
+│   ├── variables.tf
+├── scripts/
+│   ├── auto-remediation.py
+├── diagrams/
+│   ├── architecture-diagram.png
